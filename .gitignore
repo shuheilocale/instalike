@@ -1,0 +1,6 @@
+chromedriver.exe
+geckodriver.exe
+phantomjs-2.1.1-windows/
+config.json
+*.log
+.vscode/
