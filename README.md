@@ -1,7 +1,6 @@
 instalike
 ====
 
-Overview
 This is a script that like for Instagram.
 
 ## Description
